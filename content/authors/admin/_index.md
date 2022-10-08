@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Хамбалеев Булат Галимович
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Булат
+last_name: Хамбалеев
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Магистр 1 курса Российского Университета Дружбы Народов
 
 # Organizations/Affiliations to show in About widget
 organizations:
