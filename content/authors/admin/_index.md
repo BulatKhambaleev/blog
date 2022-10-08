@@ -11,11 +11,12 @@ superuser: true
 
 # Role/position/tagline
 role: Магистр 1 курса 
+
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Российского Университета Дружбы Народов
+  - name: РУДН
     url: https://www.rudn.ru/
-	
+
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
