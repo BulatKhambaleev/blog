@@ -75,4 +75,3 @@ highlight_name: true
 
 В 2022 защитил ВКР с темой "Эконометрический анализ влияния изменения мировых цен на нефть на состояние российской экономики".
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
